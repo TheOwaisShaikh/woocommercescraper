@@ -1,12 +1,17 @@
-Web Scraping WooCommerce with Selenium and BeautifulSoup
+# Web Scraping WooCommerce with Selenium and BeautifulSoup
+
 Easily extract product details from a WooCommerce-based website leveraging the power of Selenium and BeautifulSoup.
 
 🚀 Getting Started
+
 🛠️ Prerequisites
+
 Python: This script is designed for Python 3.x.
 pip: Ensure pip is installed to manage Python packages.
 Google Chrome: The script uses the ChromeDriver, so ensure you have Chrome installed.
+
 🔧 Installation
+
 Virtual Environment: Maintain a clean Python environment by setting up a virtual environment.
 
 First, install virtualenv if it's not yet installed:
